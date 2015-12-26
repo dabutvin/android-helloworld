@@ -66,4 +66,9 @@ public class HelloWorldActivity extends AppCompatActivity {
         Intent intent = new Intent(this, DisplayJsonActivity.class);
         startActivity(intent);
     }
+
+    public void seeForm(View view) {
+        Intent intent = new Intent(this, DisplayFormActivity.class);
+        startActivity(intent);
+    }
 }
