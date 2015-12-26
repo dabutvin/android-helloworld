@@ -6,4 +6,5 @@
     <string name="title_activity_display_message">My Message</string>
     <string name="button_get_json">Get the json</string>
     <string name="title_activity_display_json">DisplayJsonActivity</string>
+    <string name="title_activity_deserialize_json">DeserializeJsonActivity</string>
 </resources>
